@@ -1,0 +1,1 @@
+# grunt-duplicate-id-checker
