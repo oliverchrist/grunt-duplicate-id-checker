@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "Oliver Christ",
+    "email": "oliver.christ@mediaman.de"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Duplicate id checker for HTML Markup",
+  "devDependencies": {
+    "grunt": "latest"
+  },
+  "engines": {
+    "node": "10.*"
+  },
+  "homepage": "",
+  "keywords": [
+    "gruntplugin"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "name": "grunt-duplicate-id-checker",
+  "peerDependencies": {
+    "grunt": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oliverchrist/grunt-duplicate-id-checker"
+  },
+  "version": "0.0.1"
+}
